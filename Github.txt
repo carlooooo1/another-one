@@ -1,0 +1,15 @@
+Username:
+carlooooo1
+
+Email:
+carlo.corcuera@tuitt.com
+
+https://carlooooo1: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@github.com/carlooooo1/fcb-webportfolio.git
+
+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
+
+// continuation
+
+git remote add origin https://carlooooo1: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@github.com/carlooooo1/fcb-webportfolio.git
+
+git push origin master
